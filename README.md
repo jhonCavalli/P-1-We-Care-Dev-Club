@@ -3,6 +3,8 @@
 
 ![Preview do Projeto](Img/src/projeto-1.png)
 
+https://jhoncavalli.github.io/P-1-We-Care-Dev-Club/
+
 ## 📌 Sobre o Projeto
 O **We Care** é uma landing page desenvolvida para apresentar uma marca fictícia de cuidados com pets.  
 O objetivo do projeto é treinar **HTML5** e **CSS3**, aplicando boas práticas de responsividade, tipografia e organização visual.
