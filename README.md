@@ -1,8 +1,4 @@
 # P-1-We-Care-Dev-Club
-
-![alt text](Img/src/projeto-1.png)
-
-
 # 🐾 We Care - Landing Page
 
 ![Preview do Projeto](Img/src/projeto-1.png)
