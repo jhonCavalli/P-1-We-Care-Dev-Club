@@ -1,0 +1,90 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Montserrat", sans-serif;
+}
+    
+header {
+    margin: 44px 0 144px 76px;
+}
+
+.link-header {
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    color: #989d9c;
+    text-decoration: none;
+    margin: 23px;
+
+}
+
+.login-button {
+    background-color: #665AE1;
+    width: 130px;
+    height: 40px;
+    color: white;
+    border: none;
+    border-radius: 50px;
+    padding: 7px 25px;
+    cursor: pointer;
+    font-size: 24px;
+    font-family: "Montserrat", sans-serif;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    position: absolute;
+    top: 44px;
+    right: 76px;
+
+}
+.logo-img {
+    width: 568px;
+    height: 500px;
+    margin-left: 125px;
+    display: inline-block;
+}
+
+.section-text {
+    display: inline-block;
+    margin-left: 57px;
+    vertical-align: top;
+}
+
+h1 {
+    font-weight: 900;
+    font-size: 100px;
+    line-height: 122px;
+    color: #515151;
+}
+
+h2 {
+    font-weight: 500;
+    font-size: 58px;
+    line-height: 71px;
+    color: #515151;
+}
+
+p {
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    color: #7A7A7A;
+    width: 515px;
+    margin-top: 32px;
+    margin-bottom: 32px;
+}
+
+.explore-button {
+    background-color: #ADFF00;
+    color: #000000;
+    border: none;
+    border-radius: 50px;
+    width: 239px;
+    height: 64px;
+    cursor: pointer;
+    font-weight: 600;
+    font-size:28px;
+    font-family: "Montserrat", sans-serif;
+    line-height: 34px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    margin-top: 50px;
+}
